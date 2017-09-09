@@ -1,0 +1,11 @@
+@font-face {
+  font-family:'Dancing Script', cursive;
+  src: url(../fuente/Dancing-Script.ttf);
+}
+#Cabecera{
+  background-color: #5b7989;
+  border-radius: 10px;
+}
+h1{
+
+}
