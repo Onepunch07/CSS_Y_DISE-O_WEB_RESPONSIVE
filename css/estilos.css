@@ -2,7 +2,7 @@
   font-family:'Dancing Script', cursive;
   src: url(../fuente/Dancing-Script.ttf);
 }
-#Cabecera{
+.Cabecera{
   background-color: #5b7989;
   border-radius: 10px;
 }
